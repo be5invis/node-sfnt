@@ -1,22 +1,15 @@
-fonteditor-ttf
+node-sfnt
 ==============
 
-fonteditor中ttf模块的nodejs版本
+SFNT font parser and generator for Nodejs. Forked from the ttf module from Baidu Fonteditor.
 
-提供ttf、woff、eot、svg格式字体的读取、生成和转换
+Features
+--------------
+* TTF parsing and generation
+* CFF OTF parsing
+* CFF OTF to TTF conversion
 
-提供ttf字形调整相关函数
-
-提供otf转ttf相关函数
-
-提供svg转字形相关函数
-
-提供图片转字形相关函数
-
-提供glyph轮廓相关函数
-
-**此版本lib目录里的代码为在线编辑器版本导出代码，如无必要，不在此处编辑代码**
-
-在线编辑器版本: [fonteditor](https://github.com/ecomfe/fonteditor)
-
-在线编辑器预览: [fonteditor](http://mkwiser.sinaapp.com/fonteditor/index.html)
+Copyright
+--------------
+Copyright (c) 2014 ecomfe
+Copyright (c) 2015 Belleve Invis
