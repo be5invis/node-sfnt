@@ -1,7 +1,7 @@
 {
   "name": "node-sfnt",
 
-  "version": "0.0.20",
+  "version": "0.0.21",
 
   "description": "ttf to woff, svg, eot convert, otf to ttf convert, ttf adjust",
   "keywords": ["font", "ttf", "woff", "svg", "eot", "otf", "sfnt"],
