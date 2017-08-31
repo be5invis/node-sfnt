@@ -1,3 +1,10 @@
+# DISCONTINUED
+
+`node-sfnt` is DISCONTINUED.
+Please use [otfcc](https://github.com/caryll/otfcc) and corresponded tools (like [otfcc-cubic2quad](https://github.com/caryll/otfcc-cubic2quad) if you want to convert outline formats) instead.
+
+===
+
 # node-sfnt
 
 SFNT font parser and generator for Nodejs. Forked from the ttf module from Baidu Fonteditor.
